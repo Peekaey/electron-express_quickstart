@@ -2,7 +2,7 @@
 
 // Modules to control application life and create native browser window
 
-const { app, BrowserWindow } = require('electron')
+const { app, BrowserWindow } = require('electron');
 import * as path from 'path';
 import express from 'express';
 import bodyParser from 'body-parser';
