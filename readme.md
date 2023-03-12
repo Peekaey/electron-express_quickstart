@@ -22,3 +22,9 @@ Electron,Tyescript and Express - other misc dependencies
 `npx tsc` - recompile  
 `npm start` - start project  
 `npm run make` - package project  
+
+### Additional Configs that may be required
+- `npm i --save-dev @types/body-parser`
+- `npm i --save-dev @types/express`
+- Add dependencies under devDepencies in package.json to dependencies if experiencing issue of missing modules in final package  
+- Check that start is listed under scripts in package.json if having issues with running project
