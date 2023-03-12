@@ -13,6 +13,11 @@ Electron,Tyescript and Express - other misc dependencies
 7. `npm install --save-dev @types/node`
 8. `npm install --save-dev @electron-forge/cli`
 
+### Directories
+- /src - typescript 
+- /build - js files
+- /out - package
+
 ### Instructions
 `npx tsc` - recompile  
 `npm start` - start project  
