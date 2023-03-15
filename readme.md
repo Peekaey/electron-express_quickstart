@@ -4,7 +4,7 @@ Electron,Tyescript and Express - other misc dependencies
 ### Initialisation
 1. `npm init`
 2. `npm install --save-dev typescript`
-3. `npm exec tsc -- --init --rootDir ./src --outDir ./build`
+3. `npm exec tsc --init --rootDir ./src --outDir ./build`
 
 ### Dependencies
 4. `npm install --save-dev electron`
